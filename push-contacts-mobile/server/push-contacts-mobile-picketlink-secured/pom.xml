@@ -40,7 +40,7 @@
 
         <!-- JBoss dependency versions -->
         <version.unifiedpush.java.client>1.0.0</version.unifiedpush.java.client>
-        <version.com.google.code.gson>2.3</version.com.google.code.gson>
+        <version.com.google.code.gson>2.8.9</version.com.google.code.gson>
         <version.org.ebaysf.web>1.0.0</version.org.ebaysf.web>
 
         <version.jboss.maven.plugin>7.4.Final</version.jboss.maven.plugin>
