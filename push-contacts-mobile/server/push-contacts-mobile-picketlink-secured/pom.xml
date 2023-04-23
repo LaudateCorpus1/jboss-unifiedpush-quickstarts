@@ -57,7 +57,7 @@
         <!-- Other dependency versions -->
         <version.org.eclipse.m2e>1.0.0</version.org.eclipse.m2e>
         <version.ro.isdc.wro4j>1.4.4</version.ro.isdc.wro4j>
-        <htmlunit.version>2.4</htmlunit.version>
+        <htmlunit.version>2.37.0</htmlunit.version>
 
         <!-- other plugin versions -->
         <version.surefire.plugin>2.10</version.surefire.plugin>
